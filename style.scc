@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(255, 166, 0);
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+iframe{
+    display: flex;
+}
